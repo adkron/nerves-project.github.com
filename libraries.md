@@ -52,6 +52,7 @@ hardware or add extra functionality to their systems.
   HTTP/REST micro service providing over-the-network firmware
   management
 * **[nerves_grove](https://hex.pm/packages/nerves_grove)** Grove module support for Nerves
+* **[grovepi](https://hex.pm/packages/grovepi)** Another Grove option
 * **[nerves_io_neopixel](https://hex.pm/packages/nerves_io_neopixel)** -
   Drive WS2812B NeoPixel RGB LED strips from a Raspberry Pi
 * **[nerves_io_nfc](https://hex.pm/packages/nerves_io_nfc)** -
